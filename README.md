@@ -1,1 +1,1 @@
-# Udacity Nano Degree Project 3 - tv-script-generation
+# Udacity NanoDegree Project 3 - tv-script-generation
